@@ -58,4 +58,4 @@
   - [5.5 IT/Security-related information](5_5.md)
   - [5.6 Domestication of SDGs](5_6.md)
 
-- [6. References](6.md)
+- [**6.** **References**](6.md)

@@ -1,13 +1,3 @@
-* Getting started
+* [ADAPT Home](https://adapt.paris21.org/home/)
 
-  * [Quick start](quickstart.md)
-  * [Writing more pages](more-pages.md)
-  * [Custom navbar](custom-navbar.md)
-  * [Cover page](cover.md)
-
-* Configuration
-  * [Configuration](configuration.md)
-  * [Themes](themes.md)
-  * [Using plugins](plugins.md)
-  * [Markdown configuration](markdown.md)
-  * [Language highlight](language-highlight.md)
+* <a href="https://paris21.org/sites/default/files/inline-files/ADAPT_Manual_April%202019_Final_v1.2.pdf" download>PDF Document</a>

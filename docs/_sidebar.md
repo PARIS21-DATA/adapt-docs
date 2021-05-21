@@ -5,7 +5,7 @@
 - [List of tables](list-of-tables.md)
 - [List of abbreviations and acronyms](list-of-abbreviations.md)
 
-- **1.** **Why ADAPT?**
+- [**1.** **Why ADAPT?**](1_1.md)
 
   - [1.1 Rationale](1_1.md)
   - [1.2 Challenges in data planning](1_2.md)
@@ -28,15 +28,15 @@
 	- [3.2.5 Setting up library items](3_2_5.md)
 	- [3.2.6 Changing the appearance of the ADAPT instance](3_2_6.md)
 
-  - 3.3 Users, roles and permissions
+  - [3.3 Users, roles and permissions](3_3_1.md)
 	
 	- [3.3.1 User roles](3_3_1.md)
 	- [3.3.2 Managing user accounts or profiles](3_3_2.md)
 
-- **4.** **ADAPT Menus**
+- [**4.** **ADAPT Menus**](4_1.md)
 
   - [4.1 Overview of the ADAPT Menu items](4_1.md)
-  - 4.2. A closer look
+  - [4.2. A closer look](4_2_1.md)
 
 	- [4.2.1 Policies](4_2_1.md)
 	- [4.2.2 Logframes](4_2_2.md)
@@ -45,10 +45,10 @@
 	- [4.2.5 Data Plans](4_2_5.md)
 	- [4.2.6 Reports](4_2_6.md)
 
-- **5.** **Annexes**
+- [**5.** **Annexes**](5_1.md)
 
   - [5.1 Glossary of terms](5_1.md)
-  - 5.2 The results chain framework in ADAPT
+  - [5.2 The results chain framework in ADAPT](5_2_1.md)
 
 	- [5.2.1 Enforcing a common terminology](5_2_1.md)
 	- [5.2.2 A practical example](5_2_2.md)

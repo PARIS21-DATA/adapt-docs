@@ -1,5 +1,5 @@
-* [Cover page](/)
-* [Table of contents](table-of-contents.md)
+- [Cover page](/)
+- [Table of contents](table-of-contents.md)
 - [List of boxes](list-of-boxes.md)
 - [List of figures](list-of-figures.md)
 - [List of tables](list-of-tables.md)

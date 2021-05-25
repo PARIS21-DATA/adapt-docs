@@ -2,19 +2,19 @@
 
 [Figure 1: ADAPT makes data planning agile](1_2.md#figure1)
 
-[Figure 2: The ADAPT workflow](1_3#figure2)
+[Figure 2: The ADAPT workflow](1_3.md#figure2)
 
-[Figure 3: ADAPT sandbox – a first glance](#_Toc7208806)
+[Figure 3: ADAPT sandbox – a first glance](2_1.md#figure3)
 
-[Figure 4: Creating a sandbox](#_Toc7208807)
+[Figure 4: Creating a sandbox](2_1.md#figure4)
 
-[Figure 5: Checking your email after sandbox creation](#_Toc7208808)
+[Figure 5: Checking your email after sandbox creation](2_1.md#figure5)
 
-[Figure 6: Activated sandbox](#_Toc7208809)
+[Figure 6: Activated sandbox](2_1.md#figure6)
 
-[Figure 7: Logging into a custom ADAPT instance](#_Toc7208810)
+[Figure 7: Logging into a custom ADAPT instance](2_1.md#figure7)
 
-[Figure 8: Home page of the ADAPT sandbox instance](#_Toc7208811)
+[Figure 8: Home page of the ADAPT sandbox instance](2_1.md#figure8)
 
 [Figure 9: Accessing ADAPT in multiple languages](#_Toc7208812)
 

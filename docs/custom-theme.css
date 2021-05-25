@@ -8,6 +8,10 @@
   margin-right: auto;
 }
 
+.content .box-title {
+  font-weight: bold;
+}
+
 .sidebar {
   padding: 25px 25px;
 }

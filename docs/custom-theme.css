@@ -12,6 +12,10 @@
   font-weight: bold;
 }
 
+.content .figure-title {
+  text-align: center;
+}
+
 .sidebar {
   padding: 25px 25px;
 }

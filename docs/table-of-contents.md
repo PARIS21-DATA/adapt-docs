@@ -20,13 +20,13 @@
   	- [3.2.2 Setting up translations](3_2_2.md)
   	- [3.2.3 Setting up the geography or area](3_2_3.md)
   	- [3.2.4 Setting up lists](3_2_4.md)
-
-      - [3.2.4.1 Adding organisations](3_2_4.md)
-      - [3.2.4.2 Adding departments](3_2_4.md)
-      - [3.2.4.3 Adding units of measurement](3_2_4.md)
-      - [3.2.4.4 Adding disaggregation variables](3_2_4.md)
-      - [3.2.4.5 Defining and adding indicator priorities](3_2_4.md)
-      - [3.2.4.6 Defining and adding indicator collections](3_2_4.md)
+  	
+  		- [3.2.4.1 Adding organisations](3_2_4.md)
+  		- [3.2.4.2 Adding departments](3_2_4.md)
+  		- [3.2.4.3 Adding units of measurement](3_2_4.md)
+  		- [3.2.4.4 Adding disaggregation variables](3_2_4.md)
+  		- [3.2.4.5 Defining and adding indicator priorities](3_2_4.md)
+  		- [3.2.4.6 Defining and adding indicator collections](3_2_4.md)
 
   	- [3.2.5 Setting up library items](3_2_5.md)
   	- [3.2.6 Changing the appearance of the ADAPT instance](3_2_6.md)

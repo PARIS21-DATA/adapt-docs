@@ -1,6 +1,6 @@
 # List of figures
 
-[Figure 1: ADAPT makes data planning agile](#_Toc521689459)
+[Figure 1: ADAPT makes data planning agile](1_2.md#figure1)
 
 [Figure 2: The ADAPT workflow](#_Toc521689460)
 

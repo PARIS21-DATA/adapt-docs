@@ -13,7 +13,8 @@
 }
 
 .content .figure-title {
-  text-align: center !important;
+  display: block;
+  text-align: center;
 }
 
 .content .figures {

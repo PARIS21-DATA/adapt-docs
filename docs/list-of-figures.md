@@ -2,7 +2,7 @@
 
 [Figure 1: ADAPT makes data planning agile](1_2.md#figure1)
 
-[Figure 2: The ADAPT workflow](#_Toc521689460)
+[Figure 2: The ADAPT workflow](1_3#figure2)
 
 [Figure 3: ADAPT sandbox – a first glance](#_Toc7208806)
 

@@ -4,6 +4,6 @@
   
 * Language
   - [English](/)
+  - [Español](/es/)
   - [Français](/fr/)
   - [Русский](/ru/)
-  - [Español](/es/)

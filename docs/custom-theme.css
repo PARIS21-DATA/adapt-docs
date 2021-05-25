@@ -1,3 +1,7 @@
+.content .figure-title {
+  text-align: center;
+}
+
 .content {
   text-align: justify;
 }
@@ -11,10 +15,6 @@
 
 .content .box-title {
   font-weight: bold;
-}
-
-.content .figure-title {
-  text-align: center;
 }
 
 .sidebar {

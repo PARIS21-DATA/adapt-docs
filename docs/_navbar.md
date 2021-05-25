@@ -5,4 +5,5 @@
 * Language
   - [English](/)
   - [Français](/fr/)
+  - [:ru: Русский](/ru/)
   - [Español](/es/)

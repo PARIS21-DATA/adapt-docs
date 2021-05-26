@@ -88,7 +88,7 @@
 
 [Figure 44: Removing a user](3_3_2.md#figure44)
 
-[Figure 45: The ADAPT Menu bar](#_Toc7208848)
+[Figure 45: The ADAPT Menu bar](4_1.md#figure45)
 
 [Figure 46: The Policies menu – a first glance](#_Toc521689461)
 

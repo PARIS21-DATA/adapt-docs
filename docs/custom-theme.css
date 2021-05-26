@@ -2,7 +2,7 @@
   text-align: justify;
 }
 
-.content img {
+.content img :not(.table img) {
   display: block;
   margin-left: auto;
   margin-right: auto;

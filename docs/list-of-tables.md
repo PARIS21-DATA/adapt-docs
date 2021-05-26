@@ -1,6 +1,6 @@
 # List of tables
 
-[Table 1: Importing from the ADAPT central repository: what is modifiable?](#_Toc7209081)
+[Table 1: Importing from the ADAPT central repository: what is modifiable?](3_2_5.md#table1)
 
 [Table 2: A bird’s-eye view of the ADAPT Menu items](#_Toc7209082)
 

@@ -16,11 +16,11 @@
 
 [Figure 8: Home page of the ADAPT sandbox instance](2_1.md#figure8)
 
-[Figure 9: Accessing ADAPT in multiple languages](#_Toc7208812)
+[Figure 9: Accessing ADAPT in multiple languages](2_2.md#figure9)
 
-[Figure 10: Accessing the ADAPT sandbox in multiple languages](#_Toc7208813)
+[Figure 10: Accessing the ADAPT sandbox in multiple languages](2_2.md#figure10)
 
-[Figure 11: Changing languages and default language in ADAPT](#_Toc7208814)
+[Figure 11: Changing languages and default language in ADAPT](2_2.md#figure11)
 
 [Figure 12: Signing in to ADAPT](#_Toc7208815)
 

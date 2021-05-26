@@ -90,11 +90,11 @@
 
 [Figure 45: The ADAPT Menu bar](4_1.md#figure45)
 
-[Figure 46: The Policies menu – a first glance](#_Toc521689461)
+[Figure 46: The Policies menu – a first glance](4_2_1.md#figure46)
 
-[Figure 47: What to enter in the Policies menu](#_Toc521689462)
+[Figure 47: What to enter in the Policies menu](4_2_1.md#figure47)
 
-[Figure 48: Progress Report for Completeness score](#_Toc7208851)
+[Figure 48: Progress Report for Completeness score](4_2_1.md#figure48)
 
 [Figure 49: The *Logframes* menu – a first glance](#_Toc521689463)
 

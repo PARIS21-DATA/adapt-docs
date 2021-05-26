@@ -72,9 +72,9 @@
 
 [Figure 36: Adding an indicator collection](3_2_4.md#figure36)
 
-[Figure 37: Accessing and cloning the ADAPT library items](#_Toc7208840)
+[Figure 37: Accessing and cloning the ADAPT library items](3_2_5.md#figure37)
 
-[Figure 38: Importing organisations from the ADAPT central repository](#_Toc7208841)
+[Figure 38: Importing organisations from the ADAPT central repository](3_2_5.md#figure38)
 
 [Figure 39: Changing the appearance of the ADAPT instance](#_Toc7208842)
 

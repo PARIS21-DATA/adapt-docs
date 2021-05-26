@@ -17,6 +17,11 @@
   text-align: center;
 }
 
+.content .table-title {
+  display: block;
+  text-align: center;
+}
+
 .content .figures {
   width: 60%;
 }

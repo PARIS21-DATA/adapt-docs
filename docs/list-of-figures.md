@@ -28,17 +28,17 @@
 
 [Figure 14: Settings -&gt; *Customise* in ADAPT](3_2_1.md#figure14)
 
-[Figure 15: Setting up languages in ADAPT](#_Toc7208818)
+[Figure 15: Setting up languages in ADAPT](3_2_2.md#figure15)
 
-[Figure 16: Translating *Labels* and *Menu Items* in ADAPT](#_Toc7208819)
+[Figure 16: Translating *Labels* and *Menu Items* in ADAPT](3_2_2.md#figure16)
 
-[Figure 17: Labels in ADAPT translation – a first glance](#_Toc7208820)
+[Figure 17: Labels in ADAPT translation – a first glance](3_2_2.md#figure17)
 
-[Figure 18: Editing and saving labels for ADAPT translation](#_Toc7208821)
+[Figure 18: Editing and saving labels for ADAPT translation](3_2_2.md#figure18)
 
-[Figure 19: Menu items in ADAPT translation](#_Toc7208822)
+[Figure 19: Menu items in ADAPT translation](3_2_2.md#figure19)
 
-[Figure 20: Translating the ADAPT content](#_Toc7208823)
+[Figure 20: Translating the ADAPT content](3_2_2.md#figure20)
 
 [Figure 21: Setting up the geographic structure](#_Toc7208824)
 

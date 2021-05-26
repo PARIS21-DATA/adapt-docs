@@ -76,7 +76,7 @@
 
 [Figure 38: Importing organisations from the ADAPT central repository](3_2_5.md#figure38)
 
-[Figure 39: Changing the appearance of the ADAPT instance](#_Toc7208842)
+[Figure 39: Changing the appearance of the ADAPT instance](3_2_6.md#figure39)
 
 [Figure 40: Setting up users](#_Toc7208843)
 

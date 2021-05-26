@@ -78,7 +78,7 @@
 
 [Figure 39: Changing the appearance of the ADAPT instance](3_2_6.md#figure39)
 
-[Figure 40: Setting up users](#_Toc7208843)
+[Figure 40: Setting up users](3_3_1.md#figure40)
 
 [Figure 41: Resetting your password](#_Toc7208844)
 

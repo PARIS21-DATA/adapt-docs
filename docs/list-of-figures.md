@@ -40,7 +40,7 @@
 
 [Figure 20: Translating the ADAPT content](3_2_2.md#figure20)
 
-[Figure 21: Setting up the geographic structure](#_Toc7208824)
+[Figure 21: Setting up the geographic structure](3_2_3.md#figure21)
 
 [Figure 22: Setting up organisations in ADAPT](#_Toc7208825)
 

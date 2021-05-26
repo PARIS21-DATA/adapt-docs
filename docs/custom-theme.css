@@ -24,3 +24,9 @@
 /*.content .figures {
   width: 80%;
 }*/
+
+.content .table {
+   border-collapse: collapse;
+   border: solid;
+   table-layout: fixed;
+}

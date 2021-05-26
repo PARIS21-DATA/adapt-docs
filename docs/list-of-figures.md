@@ -80,13 +80,13 @@
 
 [Figure 40: Setting up users](3_3_1.md#figure40)
 
-[Figure 41: Resetting your password](#_Toc7208844)
+[Figure 41: Resetting your password](3_3_2.md#figure41)
 
-[Figure 42: Changing your password or editing your user profile](#_Toc7208845)
+[Figure 42: Changing your password or editing your user profile](3_3_2.md#figure42)
 
-[Figure 43: Adding a new user](#_Toc7208846)
+[Figure 43: Adding a new user](3_3_2.md#figure43)
 
-[Figure 44: Removing a user](#_Toc7208847)
+[Figure 44: Removing a user](3_3_2.md#figure44)
 
 [Figure 45: The ADAPT Menu bar](#_Toc7208848)
 

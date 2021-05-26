@@ -42,35 +42,35 @@
 
 [Figure 21: Setting up the geographic structure](3_2_3.md#figure21)
 
-[Figure 22: Setting up organisations in ADAPT](#_Toc7208825)
+[Figure 22: Setting up organisations in ADAPT](3_2_4.md#figure22)
 
-[Figure 23: Adding an organisation](#_Toc7208826)
+[Figure 23: Adding an organisation](3_2_4.md#figure23)
 
-[Figure 24: Setting up *Departments* in ADAPT](#_Toc7208827)
+[Figure 24: Setting up *Departments* in ADAPT](3_2_4.md#figure24)
 
-[Figure 25: Adding a *Department*](#_Toc7208828)
+[Figure 25: Adding a *Department*](3_2_4.md#figure25)
 
-[Figure 26: Units of measurements in ADAPT](#_Toc7208829)
+[Figure 26: Units of measurements in ADAPT](3_2_4.md#figure26)
 
-[Figure 27: Adding units of measurement](#_Toc7208830)
+[Figure 27: Adding units of measurement](3_2_4.md#figure27)
 
-[Figure 28: Editing list items](#_Toc7208831)
+[Figure 28: Editing list items](3_2_4.md#figure28)
 
-[Figure 29: Disaggregation variables in ADAPT](#_Toc7208832)
+[Figure 29: Disaggregation variables in ADAPT](3_2_4.md#figure29)
 
-[Figure 30: Adding a disaggregation variable](#_Toc7208833)
+[Figure 30: Adding a disaggregation variable](3_2_4.md#figure30)
 
-[Figure 31: Editing list items](#_Toc7208834)
+[Figure 31: Editing list items](3_2_4.md#figure31)
 
-[Figure 32: Indicator priorities in ADAPT](#_Toc7208835)
+[Figure 32: Indicator priorities in ADAPT](3_2_4.md#figure32)
 
-[Figure 33: Adding an indicator priority](#_Toc7208836)
+[Figure 33: Adding an indicator priority](3_2_4.md#figure33)
 
-[Figure 34: Editing list items](#_Toc7208837)
+[Figure 34: Editing list items](3_2_4.md#figure34)
 
-[Figure 35: Indicator collections in ADAPT](#_Toc7208838)
+[Figure 35: Indicator collections in ADAPT](3_2_4.md#figure35)
 
-[Figure 36: Adding an indicator collection](#_Toc7208839)
+[Figure 36: Adding an indicator collection](3_2_4.md#figure36)
 
 [Figure 37: Accessing and cloning the ADAPT library items](#_Toc7208840)
 

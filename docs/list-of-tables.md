@@ -4,7 +4,7 @@
 
 [Table 2: A bird’s-eye view of the ADAPT Menu items](4_1.md#table2)
 
-[Table 3: What to enter in *Policies*](#_Toc7209083)
+[Table 3: What to enter in *Policies*](4_2_1.md#table3)
 
 [Table 4: What to enter in the *Logframes* menu](#_Toc7209084)
 

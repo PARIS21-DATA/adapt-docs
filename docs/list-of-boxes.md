@@ -4,7 +4,7 @@
 
 [Box 2 – Worth noting! ADAPT and the NSDS](1_2.md#box2)
 
-[Box 3 – Worth noting! Bulk uploads in ADAPT](#_Toc7208962)
+[Box 3 – Worth noting! Bulk uploads in ADAPT](3_2_5.md#box3)
 
 [Box 4 – In Practice! Entering information vertically (1) and then horizontally (2)](#_Toc7208963)
 

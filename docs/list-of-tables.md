@@ -2,7 +2,7 @@
 
 [Table 1: Importing from the ADAPT central repository: what is modifiable?](3_2_5.md#table1)
 
-[Table 2: A bird’s-eye view of the ADAPT Menu items](#_Toc7209082)
+[Table 2: A bird’s-eye view of the ADAPT Menu items](4_1.md#table2)
 
 [Table 3: What to enter in *Policies*](#_Toc7209083)
 

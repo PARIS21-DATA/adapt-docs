@@ -26,7 +26,7 @@
 
 [Figure 13: Locating *Site Administration* and *Users* on the ADAPT home page](3_2.md#figure13)
 
-[Figure 14: Settings *Customise* in ADAPT](#_Toc7208817)
+[Figure 14: Settings *Customise* in ADAPT](3_2_1.md#figure14)
 
 [Figure 15: Setting up languages in ADAPT](#_Toc7208818)
 

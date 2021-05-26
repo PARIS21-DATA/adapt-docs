@@ -22,7 +22,7 @@
 
 [Figure 11: Changing languages and default language in ADAPT](2_2.md#figure11)
 
-[Figure 12: Signing in to ADAPT](#_Toc7208815)
+[Figure 12: Signing in to ADAPT](3_1.md#figure12)
 
 [Figure 13: Locating *Site Administration* and *Users* on the ADAPT home page](#_Toc7208816)
 

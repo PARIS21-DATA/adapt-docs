@@ -6,13 +6,13 @@
 
 [Box 3 – Worth noting! Bulk uploads in ADAPT](3_2_5.md#box3)
 
-[Box 4 – In Practice! Entering information vertically (1) and then horizontally (2)](#_Toc7208963)
+[Box 4 – In Practice! Entering information vertically (1) and then horizontally (2)](4_2_1.md#box4)
 
-[Box 5 – Worth noting! The Completeness score](#_Toc7208964)
+[Box 5 – Worth noting! The Completeness score](4_2_1.md#box5)
 
-[Box 6 – Worth noting! Entering geographic coverage](#_Toc7208965)
+[Box 6 – Worth noting! Entering geographic coverage](4_2_1.md#box6)
 
-[Box 7 – Worth noting! Mapping in ADAPT](#_Toc7208966)
+[Box 7 – Worth noting! Mapping in ADAPT](4_2_1.md#box7)
 
 [Box 8 – Did you know? Logframes without policies!](#_Toc7208967)
 

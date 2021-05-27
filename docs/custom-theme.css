@@ -21,10 +21,8 @@
   font-weight: bold;
 }
 
-/*.content .figures {
-  width: 80%;
-}*/
-
-.content td {
-  overflow: auto;
+.content .figures {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

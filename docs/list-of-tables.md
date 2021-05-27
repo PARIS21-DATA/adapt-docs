@@ -6,7 +6,7 @@
 
 [Table 3: What to enter in *Policies*](4_2_1.md#table3)
 
-[Table 4: What to enter in the *Logframes* menu](#_Toc7209084)
+[Table 4: What to enter in the *Logframes* menu](4_2_2.md#table4)
 
 [Table 5: What to enter in the Indicators menu](#_Toc7209085)
 

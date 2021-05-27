@@ -96,15 +96,15 @@
 
 [Figure 48: Progress Report for Completeness score](4_2_1.md#figure48)
 
-[Figure 49: The *Logframes* menu – a first glance](#_Toc521689463)
+[Figure 49: The *Logframes* menu – a first glance](4_2_2.md#figure49)
 
-[Figure 50: Adding levels in *Logframes*](#_Toc7208853)
+[Figure 50: Adding levels in *Logframes*](4_2_2.md#figure50)
 
-[Figure 51: Adding levels in *Logframes* – an example](#_Toc7208854)
+[Figure 51: Adding levels in *Logframes* – an example](4_2_2.md#figure51)
 
-[Figure 52: Adding values in the *Logframes* menu – an example (cont’d)](#_Toc7208855)
+[Figure 52: Adding values in the *Logframes* menu – an example (cont’d)](4_2_2.md#figure52)
 
-[Figure 53: Tabular View in the *Logframes* menu](#_Toc7208856)
+[Figure 53: Tabular View in the *Logframes* menu](4_2_2.md#figure53)
 
 [Figure 54: The *Indicators* menu – a first glance](#_Toc521689464)
 

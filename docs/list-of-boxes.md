@@ -14,9 +14,9 @@
 
 [Box 7 – Worth noting! Mapping in ADAPT](4_2_1.md#box7)
 
-[Box 8 – Did you know? Logframes without policies!](#_Toc7208967)
+[Box 8 – Did you know? Logframes without policies!](4_2_2.md#box8)
 
-[Box 9 – In Practice! Navigating the *Logframes* menu](#_Toc7208968)
+[Box 9 – In Practice! Navigating the *Logframes* menu](4_2_2.md#box9)
 
 [Box 10 – Did you know? Bulk upload feature for indicators!](#_Toc7208969)
 

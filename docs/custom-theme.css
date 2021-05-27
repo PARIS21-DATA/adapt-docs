@@ -27,6 +27,4 @@
 
 .content table {
    border-collapse: collapse;
-   border: solid;
-   table-layout: fixed;
 }

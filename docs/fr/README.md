@@ -1,6 +1,6 @@
 > *BROUILLON AVRIL. 2019*
 
-<img src="ADAPTmedia_fr\media\image1.jpeg" />
+<img src="ADAPTmedia\media\image1.jpeg" />
 
 > OUTIL DE PLANIFICATION STATISTIQUE AVANCÉE
 
@@ -10,4 +10,4 @@
 
 > MANUEL UTILISATEUR
 
-<img src="ADAPTmedia_fr\media\image2.jpeg" />
+<img src="ADAPTmedia\media\image2.jpeg" />

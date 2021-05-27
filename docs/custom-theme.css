@@ -28,6 +28,8 @@
 .content table {
   border-collapse: collapse;
   border: solid;
-  width: 100%;
+}
+
+.content table td {
   overflow: auto;
 }

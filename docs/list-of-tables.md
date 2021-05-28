@@ -12,6 +12,6 @@
 
 [Table 6: What to Enter in the *Data Sources* Menu](4_2_4.md#table6)
 
-[Table 7: What to enter in the *Data Plans* Menu](#_Toc7209087)
+[Table 7: What to enter in the *Data Plans* Menu](4_2_5.md#table7)
 
 [Table 8: Description of Key Reports](#_Toc7209088)

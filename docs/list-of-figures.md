@@ -120,9 +120,9 @@
 
 [Figure 60: The ADAPT compliance table](4_2_3.md#figure60)
 
-[Figure 61: The Data Sources menu – a first glance](#_Toc521689467)
+[Figure 61: The Data Sources menu – a first glance](4_2_4.md#figure61)
 
-[Figure 62: Creating a new data source – *Implemented* or *On-going & Planned*?](#_Toc7208865)
+[Figure 62: Creating a new data source – *Implemented* or *On-going & Planned*?](4_2_4.md#figure62)
 
 [Figure 63: The *Data Plans* menu – a first glance](#_Toc521689468)
 

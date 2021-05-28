@@ -36,7 +36,7 @@
   display: table;
   table-layout: auto;
   border-collapse: collapse;
-  width: 100%;
+  width: auto;
 }
 
 .content .tables td, .tables th {

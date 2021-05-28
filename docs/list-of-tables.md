@@ -14,4 +14,4 @@
 
 [Table 7: What to enter in the *Data Plans* Menu](4_2_5.md#table7)
 
-[Table 8: Description of Key Reports](#_Toc7209088)
+[Table 8: Description of Key Reports](4_2_6.md#table8)

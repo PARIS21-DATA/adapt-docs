@@ -18,15 +18,15 @@
 
 [Box 9 – In Practice! Navigating the *Logframes* menu](4_2_2.md#box9)
 
-[Box 10 – Did you know? Bulk upload feature for indicators!](#_Toc7208969)
+[Box 10 – Did you know? Bulk upload feature for indicators!](4_2_3.md#box10)
 
-[Box 11 – Did you know? Indicators with no links!](#_Toc7208970)
+[Box 11 – Did you know? Indicators with no links!](4_2_3.md#box11)
 
-[Box 12 – In Practice! Filling in the indicator demand description](#_Toc7208971)
+[Box 12 – In Practice! Filling in the indicator demand description](4_2_3.md#box12)
 
-[Box 13 – In Practice! Proxy as supply-side mapping](#_Toc7208972)
+[Box 13 – In Practice! Proxy as supply-side mapping](4_2_3.md#box13)
 
-[Box 14 – In Practice! Navigating the *Indicators* menu](#_Toc7208973)
+[Box 14 – In Practice! Navigating the *Indicators* menu](4_2_3.md#box14)
 
 [Box 15 – In Practice! Enter *Data Sources* before *Indicators*](#_Toc7208974)
 

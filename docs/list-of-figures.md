@@ -124,45 +124,45 @@
 
 [Figure 62: Creating a new data source – *Implemented* or *On-going & Planned*?](4_2_4.md#figure62)
 
-[Figure 63: The *Data Plans* menu – a first glance](#_Toc521689468)
+[Figure 63: The *Data Plans* menu – a first glance](4_2_5.md#figure63)
 
-[Figure 64: Linking a data plan to a policy](#_Toc7208867)
+[Figure 64: Linking a data plan to a policy](4_2_5.md#figure64)
 
-[Figure 65: Levels in a data plan](#_Toc7208868)
+[Figure 65: Levels in a data plan](4_2_5.md#figure65)
 
-[Figure 66: Values in a data plan](#_Toc7208869)
+[Figure 66: Values in a data plan](4_2_5.md#figure66)
 
-[Figure 67: Activities in a Data Plan](#_Toc7208870)
+[Figure 67: Activities in a Data Plan](4_2_5.md#figure67)
 
-[Figure 68: Non-repeating activities in a Data Plan](#_Toc7208871)
+[Figure 68: Non-repeating activities in a Data Plan](4_2_5.md#figure68)
 
-[Figure 69: Regularly repeating activities in a Data Plan](#_Toc7208872)
+[Figure 69: Regularly repeating activities in a Data Plan](4_2_5.md#figure69)
 
-[Figure 70: Irregularly repeating activities in a Data Plan](#_Toc7208873)
+[Figure 70: Irregularly repeating activities in a Data Plan](4_2_5.md#figure70)
 
-[Figure 71: Indicators in a data plan’s monitoring framework](#_Toc7208874)
+[Figure 71: Indicators in a data plan’s monitoring framework](4_2_5.md#figure71)
 
-[Figure 72: Searching for an activity to cost](#_Toc7208875)
+[Figure 72: Searching for an activity to cost](4_2_5.md#figure72)
 
-[Figure 73: Browsing for an activity to cost](#_Toc7208876)
+[Figure 73: Browsing for an activity to cost](4_2_5.md#figure73)
 
-[Figure 74: Costing activities in data plans – costing details](#_Toc7208877)
+[Figure 74: Costing activities in data plans – costing details](4_2_5.md#figure74)
 
-[Figure 75: Validate costing of data plans](#_Toc7208878)
+[Figure 75: Validate costing of data plans](4_2_5.md#figure75)
 
-[Figure 76: Monitoring data plans – monitoring framework](#_Toc7208879)
+[Figure 76: Monitoring data plans – monitoring framework](4_2_5.md#figure76)
 
-[Figure 77: Searching for an activity to monitor status](#_Toc7208880)
+[Figure 77: Searching for an activity to monitor status](4_2_5.md#figure77)
 
-[Figure 78: Browsing for an activity to monitor status](#_Toc7208881)
+[Figure 78: Browsing for an activity to monitor status](4_2_5.md#figure78)
 
-[Figure 79: Monitoring data plans – entering Activity Status details](#_Toc7208882)
+[Figure 79: Monitoring data plans – entering Activity Status details](4_2_5.md#figure79)
 
-[Figure 80: Searching for an activity to budget](#_Toc7208883)
+[Figure 80: Searching for an activity to budget](4_2_5.md#figure80)
 
-[Figure 81: Browsing for an activity to budget](#_Toc7208884)
+[Figure 81: Browsing for an activity to budget](4_2_5.md#figure81)
 
-[Figure 82: Budgeting activities in data plans – details](#_Toc7208885)
+[Figure 82: Budgeting activities in data plans – details](4_2_5.md#figure82)
 
 [Figure 83: The Reports menu item – a first glance](#_Toc7208886)
 

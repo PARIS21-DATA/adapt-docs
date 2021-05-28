@@ -10,7 +10,7 @@
 
 [Table 5: What to enter in the Indicators menu](4_2_3.md#table5)
 
-[Table 6: What to Enter in the *Data Sources* Menu](#_Toc7209086)
+[Table 6: What to Enter in the *Data Sources* Menu](4_2_4.md#table6)
 
 [Table 7: What to enter in the *Data Plans* Menu](#_Toc7209087)
 

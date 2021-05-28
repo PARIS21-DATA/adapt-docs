@@ -33,6 +33,7 @@
 }
 
 .content .tables {
+  table-layout: auto;
   border-collapse: collapse;
   width: 100%;
 }
@@ -42,9 +43,13 @@
   padding: 8px;
 }
 
-.content .tables tr:nth-child(even){background-color: #f2f2f2;}
+.content .tables tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
 
-.content .tables tr:hover {background-color: #ddd;}
+.content .tables tr:hover {
+  background-color: #ddd;
+}
 
 .content .tables th {
   padding-top: 12px;

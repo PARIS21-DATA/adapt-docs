@@ -30,4 +30,4 @@
 
 [Box 15 – In Practice! Enter *Data Sources* before *Indicators*](4_2_4.md#box15)
 
-[Box 16 – In Practice! Navigating the *Data Plans* menu](#_Toc7208975)
+[Box 16 – In Practice! Navigating the *Data Plans* menu](4_2_5.md#box16)

@@ -8,7 +8,7 @@
 
 [Table 4: What to enter in the *Logframes* menu](4_2_2.md#table4)
 
-[Table 5: What to enter in the Indicators menu](#_Toc7209085)
+[Table 5: What to enter in the Indicators menu](4_2_3.md#table5)
 
 [Table 6: What to Enter in the *Data Sources* Menu](#_Toc7209086)
 

@@ -43,10 +43,6 @@
   padding: 8px;
 }
 
-.content .tables tr:nth-child(even) {
-  background-color: #f2f2f2;
-}
-
 .content .tables tr:hover {
   background-color: #ddd;
 }
@@ -55,4 +51,9 @@
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
+}
+
+.content .tables td {
+  text-align: justify;
+  overflow: auto;
 }

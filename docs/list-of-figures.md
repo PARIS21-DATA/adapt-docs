@@ -106,19 +106,19 @@
 
 [Figure 53: Tabular View in the *Logframes* menu](4_2_2.md#figure53)
 
-[Figure 54: The *Indicators* menu – a first glance](#_Toc521689464)
+[Figure 54: The *Indicators* menu – a first glance](4_2_3.md#figure54)
 
-[Figure 55: Create a new indicator](#_Toc521689465)
+[Figure 55: Create a new indicator](4_2_3.md#figure55)
 
-[Figure 56: What to enter in the *Indicators* menu](#_Toc521689466)
+[Figure 56: What to enter in the *Indicators* menu](4_2_3.md#figure56)
 
-[Figure 57: Reflection between demands](#_Toc7208860)
+[Figure 57: Reflection between demands](4_2_3.md#figure57)
 
-[Figure 58: Reflection between demands – an example](#_Toc7208861)
+[Figure 58: Reflection between demands – an example](4_2_3.md#figure58)
 
-[Figure 59: Reflection within demands](#_Toc7208862)
+[Figure 59: Reflection within demands](4_2_3.md#figure59)
 
-[Figure 60: The ADAPT compliance table](#_Toc7208863)
+[Figure 60: The ADAPT compliance table](4_2_3.md#figure60)
 
 [Figure 61: The Data Sources menu – a first glance](#_Toc521689467)
 

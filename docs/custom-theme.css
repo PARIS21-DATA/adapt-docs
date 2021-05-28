@@ -2,7 +2,7 @@
   text-align: justify;
 }
 
-.content img :not(.table img) {
+.content .logo {
   display: block;
   margin-left: auto;
   margin-right: auto;

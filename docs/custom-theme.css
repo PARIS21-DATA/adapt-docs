@@ -24,6 +24,8 @@
 .content .table-images {
   display: block;
   margin-right: auto;
+  max-width:100%; 
+  height:auto;
 }
 
 .content .figures {

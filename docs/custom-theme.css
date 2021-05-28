@@ -33,6 +33,7 @@
 }
 
 .content .tables {
+  display: table;
   table-layout: auto;
   border-collapse: collapse;
   width: 100%;
@@ -56,4 +57,5 @@
 .content .tables td {
   text-align: justify;
   overflow: auto;
+  max-width: 0;
 }

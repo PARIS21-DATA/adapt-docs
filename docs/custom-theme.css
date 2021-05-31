@@ -60,6 +60,6 @@
   text-align: justify;
 }
 
-#table9 td {
+.content .table9 td {
   overflow: hidden;
 }

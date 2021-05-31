@@ -180,30 +180,30 @@
 
 [Figure 90: Visualising the results chain framework in ADAPT – example 2](5_2_2.md#figure90)
 
-[Figure 91: Accessing the Bulk Upload feature](#_Toc7208894)
+[Figure 91: Accessing the Bulk Upload feature](5_4.md#figure91)
 
-[Figure 92: Bulk-uploading indicators – a first glance](#_Toc7208895)
+[Figure 92: Bulk-uploading indicators – a first glance](5_4.md#figure92)
 
-[Figure 93: What to enter in *Step 1* – *Download template*](#_Toc7208896)
+[Figure 93: What to enter in *Step 1* – *Download template*](5_4.md#figure93)
 
-[Figure 94: Choosing the link and language](#_Toc7208897)
+[Figure 94: Choosing the link and language](5_4.md#figure94)
 
-[Figure 95: Downloading the Microsoft Excel file](#_Toc7208898)
+[Figure 95: Downloading the Microsoft Excel file](5_4.md#figure95)
 
-[Figure 96: The downloaded Microsoft Excel workbook](#_Toc7208899)
+[Figure 96: The downloaded Microsoft Excel workbook](5_4.md#figure96)
 
-[Figure 97: Sheets in the downloaded Microsoft Excel workbook](#_Toc7208900)
+[Figure 97: Sheets in the downloaded Microsoft Excel workbook](5_4.md#figure97)
 
-[Figure 98: Adding a test indicator in the downloaded Microsoft Excel workbook](#_Toc7208901)
+[Figure 98: Adding a test indicator in the downloaded Microsoft Excel workbook](5_4.md#figure98)
 
-[Figure 99: What to enter in Step 2 – *Browse* and *Upload* file](#_Toc7208902)
+[Figure 99: What to enter in Step 2 – *Browse* and *Upload* file](5_4.md#figure99)
 
-[Figure 100: Uploading in progress](#_Toc7208903)
+[Figure 100: Uploading in progress](5_4.md#figure100)
 
-[Figure 101: What to enter in *Step 3 – Validation & Import*](#_Toc7208904)
+[Figure 101: What to enter in *Step 3 – Validation & Import*](5_4.md#figure101)
 
-[Figure 102: Importing indicator data into ADAPT](#_Toc7208905)
+[Figure 102: Importing indicator data into ADAPT](5_4.md#figure102)
 
-[Figure 103: Viewing the recently imported data](#_Toc7208906)
+[Figure 103: Viewing the recently imported data](5_4.md#figure103)
 
-[Figure 104: The imported data is now integrated!](#_Toc7208907)
+[Figure 104: The imported data is now integrated!](5_4.md#figure104)

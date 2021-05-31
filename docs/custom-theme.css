@@ -60,7 +60,7 @@
   text-align: justify;
 }
 
-.content #table9 a {
+.content #table9 p {
   display: block;
   overflow: hidden;
   text-overflow: ellipsis;

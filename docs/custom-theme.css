@@ -63,4 +63,6 @@
 .content #table9 a {
   display: block;
   overflow: hidden;
+  text-overflow: ellipsis;
+
 }

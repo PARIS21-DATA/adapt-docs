@@ -61,6 +61,6 @@
 }
 
 .content #table9 a {
-  display: inline-block;
+  display: block;
   overflow: hidden;
 }

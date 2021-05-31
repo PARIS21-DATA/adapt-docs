@@ -61,5 +61,25 @@
 }
 
 .content .table9 {
-  table-layout: fixed;
+  display: table;
+  border-collapse: collapse;
+}
+
+.content .table9 td, .table9 th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.content .table9 tr:hover {
+  background-color: #ddd;
+}
+
+.content .table9 th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+}
+
+.content .table9 td {
+  text-align: justify;
 }

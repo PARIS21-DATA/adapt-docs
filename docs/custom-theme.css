@@ -66,7 +66,7 @@
   display: table;
   table-layout: fixed;
   border-collapse: collapse;
-  width: 100%;
+  width: auto;
 }
 
 .content .table9 td, .table9 th {

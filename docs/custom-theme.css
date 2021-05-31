@@ -62,5 +62,5 @@
 
 .content #table9 a {
   display: inline-block;
-  overflow: auto;
+  overflow: hidden;
 }

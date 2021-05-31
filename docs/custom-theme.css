@@ -60,6 +60,6 @@
   text-align: justify;
 }
 
-.content .table9 td {
-  overflow: hidden;
+.content .table9 {
+  table-layout: fixed;
 }

@@ -168,17 +168,17 @@
 
 [Figure 84: OECD results chain framework](5_2_1.md#figure84)
 
-[Figure 85: An example of a results chain framework from Vanuatu’s NDP](#_Toc521689470)
+[Figure 85: An example of a results chain framework from Vanuatu’s NDP](5_2_2.md#figure85)
 
-[Figure 86: Goals of Vanuatu’s NSDP](#_Toc521689471)
+[Figure 86: Goals of Vanuatu’s NSDP](5_2_2.md#figure86)
 
-[Figure 87: Expanding the results chain framework of Vanuatu’s NSDP](#_Toc7208890)
+[Figure 87: Expanding the results chain framework of Vanuatu’s NSDP](5_2_2.md#figure87)
 
-[Figure 88: Visualising the results chain framework in ADAPT – example 1](#_Toc521689472)
+[Figure 88: Visualising the results chain framework in ADAPT – example 1](5_2_2.md#figure88)
 
-[Figure 89: Rwanda’s National Strategy for the Development of Statistics](#_Toc7208892)
+[Figure 89: Rwanda’s National Strategy for the Development of Statistics](5_2_2.md#figure89)
 
-[Figure 90: Visualising the results chain framework in ADAPT – example 2](#_Toc7208893)
+[Figure 90: Visualising the results chain framework in ADAPT – example 2](5_2_2.md#figure90)
 
 [Figure 91: Accessing the Bulk Upload feature](#_Toc7208894)
 

@@ -58,3 +58,5 @@
   - [5.6 Domestication of SDGs](5_6.md)
 
 - [**6.** **References**](6.md)
+
+<footer id="mb-footer"></footer>

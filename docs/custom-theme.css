@@ -86,6 +86,9 @@
 
 .content .table9 td {
   text-align: justify;
-  overflow: auto;
 }
 
+.content .table9 p {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}

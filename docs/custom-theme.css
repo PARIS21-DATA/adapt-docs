@@ -4,11 +4,18 @@
   word-wrap: break-word;
 }
 
-.content .logo {
+.content .logo1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%; 
+  height: auto;
+}
+
+.content .logo2 {
+  display: block;
+  margin-right: auto;
+  width: 25%; 
   height: auto;
 }
 

@@ -88,10 +88,4 @@
 
 .content .table9 td {
   text-align: justify;
-  width: auto;
-}
-
-.content .table9 p {
-  overflow-wrap: break-word;
-  word-wrap: break-word;
 }

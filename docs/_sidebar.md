@@ -59,4 +59,4 @@
 
 - [**6.** **References**](6.md)
 
-<small>Version 1.0</small>
+<small><u>Version 1.0</u></small>

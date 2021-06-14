@@ -59,4 +59,4 @@
 
 - [**6.** **References**](6.md)
 
-<footer id="mb-footer"></footer>
+<footer></br></br><p>Version 1.0<p></footer>

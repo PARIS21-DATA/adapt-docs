@@ -59,4 +59,5 @@
 
 - [**6.** **References**](6.md)
 
-<footer></br></br><p>Version 1.0<p></footer>
+</br>
+<small>Version 1.0</small>

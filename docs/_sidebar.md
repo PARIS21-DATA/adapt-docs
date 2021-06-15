@@ -59,4 +59,8 @@
 
 - [**6.** **References**](6.md)
 
-<small><u>Version 1.0</u></small>
+<?php
+	shell_exec("./version.sh");
+?>
+
+<small><u>v1.0.0</u></small>

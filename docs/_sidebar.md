@@ -60,8 +60,7 @@
 - [**6.** **References**](6.md)
 
 <?php
-	echo 1;
-	echo "hello";
+ print "<p> Hello </p>";
 ?>
 
 <?php

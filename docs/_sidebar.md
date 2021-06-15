@@ -59,13 +59,8 @@
 
 - [**6.** **References**](6.md)
 
-<?php
- print "<p> Hello </p>";
-?>
+<?php print "<p> Hello </p>"; ?>
 
-<?php
-	$output = shell_exec("./version.sh");
-	echo $output;
-?>
+<?php $output = shell_exec("./version.sh"); print $output; ?>
 
 <small><u>v1.0.0</u></small>

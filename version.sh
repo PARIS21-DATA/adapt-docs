@@ -1,5 +1,3 @@
-ls -a
-echo
 if [[ `git status --porcelain` ]]; then
   echo 1
 else

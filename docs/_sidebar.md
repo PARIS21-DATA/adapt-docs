@@ -60,6 +60,11 @@
 - [**6.** **References**](6.md)
 
 <?php
+	echo 1;
+	echo "hello";
+?>
+
+<?php
 	$output = shell_exec("./version.sh");
 	echo $output;
 ?>

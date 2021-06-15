@@ -62,7 +62,11 @@
 <small><u>v1.0.0</u></small>
 
 <?php 
-	$output = shell_exec('./docs/version.sh'); 
-	print "Hello"; 
-	print $output;
+/*$output = shell_exec('./docs/version.sh'); 
+echo $output;*/
+
+$file = "1_1.md";
+if ( file_exists($file) && filemtime($file) <= strtotime("6 months ago") ){
+    echo O;
+}
 ?>

@@ -59,7 +59,7 @@
 
 - [**6.** **References**](6.md)
 
-<small><u>v1.0.0</u></small>
+<small>v1.0.0</small>
 
 <?php 
 /*$output = shell_exec('./docs/version.sh'); 

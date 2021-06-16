@@ -1,4 +1,8 @@
 <?php
+
+//$output = shell_exec('version.sh'); 
+//echo $output;
+
 $files = array(
   "1_1.md", 
   "1_2.md", 

@@ -49,12 +49,14 @@ $files = array(
 );
 
 $file_compare = 'timecheck.txt';
-$line= "This is a time check\n";
+$line = "This is a time check\n";
+
+$a = 0;
 
 foreach ($files as $value) {
   if ( file_exists($value) && filemtime($value) > filemtime($file_compare) ){
     file_put_contents($file_compare, $line, FILE_APPEND | LOCK_EX);
-    echo 0;
+    $a = 1;
     break;
   }
 }

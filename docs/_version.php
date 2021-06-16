@@ -48,15 +48,15 @@ $files = array(
   "table-of-contents.md"
 );
 
-$file_compare = 'timecheck.txt';
+$file_compare = '_timecheck.txt';
 $line = "This is a time check\n";
 
-$a = 0;
+$a = "0";
 
 foreach ($files as $value) {
   if ( file_exists($value) && filemtime($value) > filemtime($file_compare) ){
     file_put_contents($file_compare, $line, FILE_APPEND | LOCK_EX);
-    $a = 1;
+    $a = "1";
     break;
   }
 }

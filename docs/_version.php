@@ -45,7 +45,16 @@ $files = array(
   "table-of-contents.md"
 );
 
-$file_name = 'text.txt';
-$line= "This is a new line\n";
+$file_compare = 'timecheck.txt';
+$line= "This is a time check\n";
 
-file_put_contents($file_name , $line, FILE_APPEND | LOCK_EX);
+foreach ($files as $value) {
+  if ( file_exists($value) && filemtime($value) > filemtime($file_compare) ){
+    file_put_contents($file_compare, $line, FILE_APPEND | LOCK_EX);
+    echo 0;
+  }
+}
+
+unset($value);
+echo "done";
+?>

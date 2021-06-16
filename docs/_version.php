@@ -51,7 +51,7 @@ foreach ($files as $value) {
   if ( file_exists($value) && filemtime($value) > filemtime($file_compare) ){
     file_put_contents($file_compare, $line, FILE_APPEND | LOCK_EX);
     echo 0;
-    exit;
+    break;
   }
 }
 

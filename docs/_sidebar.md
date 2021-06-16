@@ -60,3 +60,9 @@
 - [**6.** **References**](6.md)
 
 <small>v1.0.0</small>
+
+<?php
+include '_version.php';
+$version = "v1.0" . $a;
+print $version;
+?>

@@ -1,1 +1,7 @@
-
+markdown: GFM
+baseurl: /adapt-docs
+plugins:
+  - jekyll-github-metadata
+name: PARIS21-DATA - /adapt-docs
+url: https://paris21-data.github.io
+repository: /adapt-docs

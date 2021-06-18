@@ -9,31 +9,8 @@
   <!--<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">-->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
   <link rel="stylesheet" href="custom-theme.css">
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=String.prototype.padStart%2Cfetch" crossorigin="anonymous"></script>
-  <script type="text/javascript">
-    function setModifiedDate() {
-      if (document.getElementById('last-modified')) {
-        fetch("https://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/commits?path={{ page.path }}")
-          .then((response) => {
-            return response.json();
-          })
-          .then((commits) => {
-            var modified = commits[0]['commit']['committer']['date'].slice(0,10);
-            if(modified != "{{ page.date | date: "%Y-%m-%d" }}") {
-              document.getElementById('last-modified').textContent = "Last Modified: " + modified;
-            }
-          });
-      }
-    }
-  </script>
 </head>
 <body>
-  <!--<div>
-    {% if page.date %}
-      <span>Originally Published: {{ page.date | date: "%Y-%m-%d" }}</span><br/>
-      <span id='last-modified'/>
-    {% endif %}
-  </div>-->
   <div id="app"></div>
   <script>
     window.$docsify = {

@@ -10,7 +10,7 @@ nav .app-nav li ul {
 
 footer {
   display: flex;
-  align-items: center;
+  align-items: end;
   justify-content: center;
 }
 

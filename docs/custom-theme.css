@@ -1,7 +1,17 @@
+nav.app-nav li ul {
+  min-width: 100px;
+}
+
 .content {
   text-align: justify;
   overflow-wrap: break-word;
   word-wrap: break-word;
+}
+
+.content .date {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .content .logo1 {

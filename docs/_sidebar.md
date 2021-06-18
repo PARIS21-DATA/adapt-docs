@@ -60,3 +60,5 @@
 - [**6.** **References**](6.md)
 
 <small>v1.0.0</small>
+
+<div w3-include-html="_footer.html"></div>

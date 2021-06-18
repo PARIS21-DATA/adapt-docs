@@ -8,10 +8,10 @@ nav.app-nav li ul {
   word-wrap: break-word;
 }
 
-.content .date {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .content .logo1 {

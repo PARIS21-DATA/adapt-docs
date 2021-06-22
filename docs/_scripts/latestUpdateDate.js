@@ -15,7 +15,7 @@ if (this.readyState == 4 && this.status == 200)
 		var day = lastUpdated.getUTCDate();
 		var month = lastUpdated.getUTCMonth() + 1;
 		var year = lastUpdated.getUTCFullYear();
-		$(dateTagClass).text(`Updated ${year}-${month}-${day}`);
+		$(dateTagClass).text(`Updated at: ${year}-${month}-${day}`);
 	}
 	});
 }

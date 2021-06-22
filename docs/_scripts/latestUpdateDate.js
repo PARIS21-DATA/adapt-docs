@@ -1,3 +1,4 @@
+$(document).ready(function() {
 const desiredRepo = "adapt-docs";
 const dateTagClass = ".date";
 
@@ -22,3 +23,4 @@ if (this.readyState == 4 && this.status == 200)
 };
 xhttp.open("GET", "https://api.github.com/users/paris21-data/repos", true);
 xhttp.send();
+});

@@ -1,4 +1,5 @@
 > MANUAL FOR USERS
+
 > THE ADVANCED DATA PLANNING TOOL VERSION 1.2
 
 <img src="ADAPTmedia\media\image1.png" class="logo1" />
